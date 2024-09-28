@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!612988286 &1
+SpriteAtlasAsset:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 
+  m_MasterAtlas: {fileID: 0}
+  m_ImporterData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 0ec4eec7df566054bb338c47cbff2508, type: 3}
+    - {fileID: 2800000, guid: 7d248b6f273ffb0498abb01310f42d05, type: 3}
+    - {fileID: 2800000, guid: 5ae90f5e46e02914c950c8601b348f78, type: 3}
+    - {fileID: 2800000, guid: e18590bd2f318f945bd387dcfd2e9f3a, type: 3}
+    - {fileID: 2800000, guid: 379b4612be3dccd4e9d2f7d039a811f3, type: 3}
+    - {fileID: 2800000, guid: e86cbfef1acfcf14394109d00efd4acd, type: 3}
+    - {fileID: 2800000, guid: de57100a0cb87b845a8208decc225dbd, type: 3}
+    - {fileID: 2800000, guid: be271d66d6a85f545b98ace1afa05fa3, type: 3}
+    - {fileID: 2800000, guid: 4ae46ef4486f310439197b0442ccc49e, type: 3}
+    - {fileID: 2800000, guid: 7d6bc591ef234c74ca988ab2de13f2c1, type: 3}
+    - {fileID: 2800000, guid: d469ede51792aff4394a405bd6c7631f, type: 3}
+    - {fileID: 2800000, guid: 8164f953df5e28b4d9aa7a6cffcc0368, type: 3}
+    - {fileID: 2800000, guid: c120d157310fed24980d8f21d9b9eb27, type: 3}
+    - {fileID: 2800000, guid: 38e75d5985e7c48489931a9c4c625e2d, type: 3}
+    - {fileID: 2800000, guid: b251c7c3367d0e14badb31d78a62fb27, type: 3}
+    - {fileID: 2800000, guid: 94b58cc10dab04b4484b236e0c04eecb, type: 3}
+    - {fileID: 2800000, guid: c3229dcaf166e604683c02d31e5c7c78, type: 3}
+    - {fileID: 2800000, guid: ec23170b534798c48964174cdeac4fe7, type: 3}
+    - {fileID: 2800000, guid: 4d1e45d499b39c748877d140422232d8, type: 3}
+    - {fileID: 2800000, guid: 14393be5c68c8284cb4ed1abd4dc083b, type: 3}
+    - {fileID: 2800000, guid: 57b7b531695a52d4db8ed7b0efba5d35, type: 3}
+    - {fileID: 2800000, guid: 7e571306a5f849e4f920aae34285dfcc, type: 3}
+    - {fileID: 2800000, guid: a9f7f410bed46354b9fc4623414e875d, type: 3}
+    - {fileID: 2800000, guid: 9cc22d5ff857743499e99654531025fc, type: 3}
+    - {fileID: 2800000, guid: 6361721324b8474489fd880873b102fa, type: 3}
+    - {fileID: 2800000, guid: 2faefa4063dd84e4ab7dbab6cd8dc1c5, type: 3}
+    - {fileID: 2800000, guid: 1f7a5b9e6782497498f2cf7d60488d92, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 1
+    cachedData: {fileID: 0}
+  m_IsVariant: 0
